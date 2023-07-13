@@ -3,4 +3,4 @@
 # FİREWALL BYPASS
 
 # Coded by Rodriquez
-# Contact: Rodriquez#0001 - Telegram: Rodriquez0001
+# Contact: Rodriquez#0001
