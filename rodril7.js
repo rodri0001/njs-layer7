@@ -18,6 +18,9 @@ var zamanim = process.argv[3];
 process.on('uncaughtException', function (e) { });
 process.on('unhandledRejection', function (e) { });
 const bilgiciklerim = [
+	"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+	"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 	"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko",
 	"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0",
 	"Mozilla/6.0 (Macintosh; I; Intel Mac OS X 11_7_9; de-LI; rv:1.9b4) Gecko/2012010317 Firefox/10.0a4",
